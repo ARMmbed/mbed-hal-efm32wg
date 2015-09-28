@@ -1,0 +1,27 @@
+{
+  "name": "mbed-hal-efm32wg",
+  "version": "0.0.1",
+  "description": "mbed low-level HAL implementation for Silicon Labs EFM32 Wonder Gecko Microcontrollers",
+  "keywords": [
+    "mbed",
+    "hal",
+    "efm32wg",
+    "efm32",
+    "silabs"
+  ],
+  "author": "Aksel Skauge Mellbye <aksel.mellbye@silabs.com>",
+  "repository": {
+    "url": "https://github.com/ARMmbed/mbed-hal-efm32wg.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/mbed-hal-efm32wg",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "extraIncludes": [
+    "mbed-hal-efm32wg"
+  ]
+}
