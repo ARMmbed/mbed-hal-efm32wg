@@ -22,6 +22,9 @@
     }
   ],
   "extraIncludes": [
-    "mbed-hal-efm32wg"
-  ]
+    "mbed-hal-efm32"
+  ],
+  "dependencies": {
+    "mbed-hal-silabs": "*"
+  }
 }
